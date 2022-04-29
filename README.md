@@ -1,5 +1,5 @@
 
-[Personal Site](https://andreiaagost.github.io/index.html)
+<!--[Personal Site](https://andreiaagost.github.io/index.html)-->
 
 
 #### Programming Languages
